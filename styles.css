@@ -1,0 +1,37 @@
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.hero {
+  background-color: #1f2937;
+}
+
+.hero-main {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+}
+
+.hero-secondary {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #f9faf8;
+
+}
+
+.hero-signup {
+  background-color: #3882f6;
+  color: #e5e7eb;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 25px;
+}
+
+footer {
+  background-color: #1f2937;
+}
